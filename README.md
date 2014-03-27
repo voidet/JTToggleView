@@ -16,4 +16,6 @@ To figure out if the toggle is on or off you can use:
 	}
 	
 ## Design
-Ships with a design similar to 
+Ships with a design similar to:
+
+![Screenshot](https://raw.githubusercontent.com/voidet/JTToggleView/master/screen.png)
